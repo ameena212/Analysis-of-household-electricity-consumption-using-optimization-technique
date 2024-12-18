@@ -1,6 +1,7 @@
 The file include: Planing files, Python code, Excel dataset, Power Bi dashboard and thesis pdf.
 
-Abstract 
+Abstract:
+
 The modern household experiences rising energy costs, while governments face an increase in electricity demand 
 which makes energy-efficient management essential. In collaboration with the Derasat think tank in Bahrain, an 
 analysis of electricity consumption patterns in a single Bahraini house will be conducted by utilization of an 
